@@ -1,4 +1,4 @@
-# SciCompChem_JupyterBook
+# SciCompChem_Experimental
 
 This is an experimental repo for Scientific Computing for Chemists with Python. See [Scientific Computing for Chemists with Python](https://github.com/weisscharlesj/SciCompforChemists) for the updated version of this book.
 
