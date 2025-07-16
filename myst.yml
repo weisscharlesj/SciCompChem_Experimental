@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: c2cef9bf-038b-467d-975b-e232e9c1f604
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/weisscharlesj/SciCompChem_Experimental
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+logo: logo.svg
