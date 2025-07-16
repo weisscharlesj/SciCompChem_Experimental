@@ -1,6 +1,6 @@
 # SciCompChem_JupyterBook
 
-This book is an introductiont to computer programming for chemistry students and was origionally written for the course described in the below publications.
+This is an experimental repo for Scientific Computing for Chemists with Python. See [Scientific Computing for Chemists with Python](https://github.com/weisscharlesj/SciCompforChemists) for the updated version of this book.
 
 This book and all associated files are copyright © 2022 Charles J. Weiss and are released under under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
